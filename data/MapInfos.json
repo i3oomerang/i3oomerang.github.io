@@ -8,7 +8,7 @@ null,
 {"id":6,"expanded":true,"name":"เมืองแห่งดิน","order":1,"parentId":0,"scrollX":811,"scrollY":1690},
 {"id":7,"expanded":false,"name":"คฤหาสน์เจ้าเมืองดิน","order":2,"parentId":6,"scrollX":811,"scrollY":482},
 {"id":8,"expanded":true,"name":"อาณาจักรตรรกศาสตร์(ต่อดิน)","order":3,"parentId":6,"scrollX":819,"scrollY":478},
-{"id":9,"expanded":true,"name":"เมืองแห่งไฟ","order":5,"parentId":0,"scrollX":1082,"scrollY":1364},
+{"id":9,"expanded":true,"name":"เมืองแห่งไฟ","order":5,"parentId":0,"scrollX":1082,"scrollY":1284},
 {"id":10,"expanded":false,"name":"คฤหาสน์เจ้าเมืองไฟ","order":6,"parentId":9,"scrollX":1061,"scrollY":1210},
 {"id":11,"expanded":true,"name":"อาณาจักรตรรกศาสตร์(ต่อไฟ)","order":7,"parentId":9,"scrollX":819,"scrollY":478},
 {"id":12,"expanded":true,"name":"เมืองแห่งน้ำ","order":9,"parentId":0,"scrollX":1082,"scrollY":1361},
@@ -31,5 +31,5 @@ null,
 {"id":29,"expanded":true,"name":"intro","order":26,"parentId":0,"scrollX":819,"scrollY":478},
 {"id":30,"expanded":false,"name":"บ้าน","order":25,"parentId":26,"scrollX":819,"scrollY":478},
 null,
-{"id":32,"expanded":true,"name":"หมู่บ้านแห่งไฟ","order":8,"parentId":9,"scrollX":1157,"scrollY":1602}
+{"id":32,"expanded":true,"name":"หมู่บ้านแห่งไฟ","order":8,"parentId":9,"scrollX":1157,"scrollY":1202}
 ]
